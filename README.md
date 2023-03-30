@@ -1,2 +1,2 @@
 # ProjetoDoDilan
-projeto exemplo do uso do git
+Projeto exemplo de uso do GIT FLOW COM O GIT HUB INTEGRADO
